@@ -1,0 +1,2 @@
+dwn_path=C:\Users\Admin\Downloads
+ffmpeg_path=C:\Program Files\ffmpeg-master-latest-win64-gpl-shared\bin\ffmpeg.exe
